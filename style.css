@@ -132,3 +132,31 @@ h1 {
 .survey {
     padding-right: 8%;
 }
+
+.flex-container {
+    display: flex;
+    background-color: antiquewhite;
+    margin: 80px;
+}
+
+.contact-email {
+    background-color: gray;
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 10px 60px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.subscribe {
+    background-color: rgb(236, 97, 97);
+    width: 20%;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 10px 60px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
