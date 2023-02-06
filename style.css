@@ -14,6 +14,7 @@ body {
     background-size: cover;
     padding-top: 300px;
     padding-bottom: 300px;
+    margin-bottom: 100px;
 
 
 }
@@ -29,4 +30,45 @@ body {
     color: white;
     padding: 10px 30px;
     border-radius: 5px;
+}
+
+.donate-today {
+    margin-left: 7%;
+    margin-right: 7%;
+    border-bottom: 1px solid gray;
+}
+
+
+.center-aline {
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.inline-gap {
+    text-align: center;
+    width: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 6px 8px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+
+}
+
+#fanci {
+    color: red;
+    border: 2px solid red;
+}
+
+.center {
+    text-align: center;
+}
+
+.donate-now {
+    text-align: center;
+    margin-top: 30px;
 }
