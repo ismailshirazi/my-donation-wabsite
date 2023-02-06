@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+#help {
+    font-size: 30px;
+    font-weight: 1000px;
+}
+
+.top-banner {
+    background-image: url(images/donation-medium.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+
+
+}
+
+.top-container {
+    text-align: center;
+    color: white;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
