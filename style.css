@@ -4,8 +4,13 @@ body {
 }
 
 #help {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 1000px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 700;
 }
 
 .top-banner {
@@ -102,4 +107,28 @@ body {
 
 #education {
     background-color: rgb(239, 239, 228);
+}
+
+.flexible-container-2 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+
+}
+
+.lives-depend {
+    padding-top: 30px;
+
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.survey {
+    padding-right: 8%;
 }
